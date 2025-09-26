@@ -2,7 +2,7 @@
 
 Projeto Integrador – Fatec Franco da Rocha – Giuliano Cecchettini  
 Curso: Desenvolvimento de Software Multiplataforma  
-Integrantes: Carlos Henrique, Diogo Alvarenga, Matheus Henrique de Brito Belarmino, Moyses Sousa Antunes Santos, Pedro de Novaes Santos  
+Integrantes: Carlos Henrique Bueno, Diogo Alvarenga, Matheus Henrique de Brito Belarmino, Moyses Sousa Antunes Santos, Pedro de Novaes Santos  
 Semestre: 1º semestre do curso (Ingresso: 2º semestre de 2025)
 
 ---
