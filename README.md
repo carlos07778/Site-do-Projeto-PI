@@ -1,6 +1,6 @@
-# 🌱 FARRIGATEC: Sistema de Irrigação Inteligente para a Horta Orgânica da FATEC Franco da Rocha
+# 🌱 FARRIGATEC: Sistema de Irrigação Inteligente para a Horta Orgânica da Fatec Franco da Rocha
 
-Projeto Integrador – FATEC Franco da Rocha  
+Projeto Integrador – Fatec Franco da Rocha – Giuliano Cecchettini  
 Curso: Desenvolvimento de Software Multiplataforma  
 Integrantes: Carlos Henrique, Diogo Alvarenga, Matheus Henrique de Brito Belarmino, Moyses Sousa Antunes Santos, Pedro de Novaes Santos  
 Semestre: 1º semestre do curso (Ingresso: 2º semestre de 2025)
@@ -9,7 +9,7 @@ Semestre: 1º semestre do curso (Ingresso: 2º semestre de 2025)
 
 ## 📘 Sobre o Projeto
 
-O **FARRIGATEC** é um projeto desenvolvido para o **Projeto Integrador** da FATEC Franco da Rocha. Seu objetivo é criar um **sistema de irrigação automatizado e sustentável** para a horta orgânica da unidade, utilizando tecnologias modernas e acessíveis como:
+O **FARRIGATEC** é um projeto desenvolvido para o **Projeto Integrador** da Fatec Franco da Rocha – Giuliano Cecchettini. Seu objetivo é criar um **sistema de irrigação automatizado e sustentável** para a horta orgânica da unidade, utilizando tecnologias modernas e acessíveis como:
 
 - **ESP32**
 - **Sensores de umidade do solo**
@@ -25,7 +25,7 @@ A proposta é fornecer uma solução eficiente e ecológica, aplicável em peque
 
 | Componente                       | Função no Sistema                                                     |
 |----------------------------------|------------------------------------------------------------------------|
-| **ESP32**                        | Microcontrolador principal com conectividade Wi-Fi                    |
+| **ESP32**                        | Microcontrolador com Wi-Fi/Bluetooth integrado; processa dados e envia à interface |
 | **Sensor de Umidade do Solo**   | Mede a umidade do solo para ativar ou desativar a irrigação automaticamente |
 | **Placa Solar Fotovoltaica**     | Fonte de energia renovável que alimenta o sistema                     |
 | **Bateria + Controlador de Carga** | Armazena energia e protege o sistema contra sobrecargas               |
@@ -75,14 +75,15 @@ O **FARRIGATEC** representa uma solução inteligente e sustentável para um pro
 
 Para mais informações, sugestões ou parcerias:
 
-- Carlos Henrique: [github.com/carlos07778](https://github.com/carlos07778)
-- Diogo Alvarenga: [adicionar link]
-- Matheus Henrique: [adicionar link]
-- Moyses Sousa: [adicionar link]
-- Pedro de Novaes: [adicionar link]
+- Carlos Henrique: [github.com/carlos07778](https://github.com/carlos07778)  
+- Diogo Alvarenga: [github.com/diogo-alvarenga](https://github.com/diogo-alvarenga)
+- Matheus Henrique: *[github.com/theubelarmino](https://github.com/theubelarmino)  
+- Moyses Sousa: *[github.com/moyses-antunese](https://github.com/moyses-antunese) 
+- Pedro de Novaes: *[github.com/Novaes29](https://github.com/Novaes29)
 
 ---
 
-> *“Tecnologia a favor do meio ambiente: irrigação inteligente com energia limpa.”*
+> **_"Tecnologia a favor do meio ambiente: irrigação inteligente com energia limpa."_**
+
 
 
