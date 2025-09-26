@@ -77,9 +77,9 @@ Para mais informações, sugestões ou parcerias:
 
 - Carlos Henrique: [github.com/carlos07778](https://github.com/carlos07778)  
 - Diogo Alvarenga: [github.com/diogo-alvarenga](https://github.com/diogo-alvarenga)
-- Matheus Henrique: *[github.com/theubelarmino](https://github.com/theubelarmino)  
-- Moyses Sousa: *[github.com/moyses-antunese](https://github.com/moyses-antunese) 
-- Pedro de Novaes: *[github.com/Novaes29](https://github.com/Novaes29)
+- Matheus Henrique: [github.com/theubelarmino](https://github.com/theubelarmino)  
+- Moyses Sousa: [github.com/moyses-antunese](https://github.com/moyses-antunese) 
+- Pedro de Novaes: [github.com/Novaes29](https://github.com/Novaes29)
 
 ---
 
